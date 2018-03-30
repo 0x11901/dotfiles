@@ -27,6 +27,16 @@ set expandtab
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
+
+" >> indents to next multiple of 'shiftwidth'.
+set shiftround
+
+" 自动跳转并高亮匹配的括号
+set showmatch
+set matchtime=1
+
+" 开启特殊符号的回显
+set list listchars=eol:¬,tab:▸\ ,trail:.,
 set cindent
 set background=dark
 colorscheme solarized
