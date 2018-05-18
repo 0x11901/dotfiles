@@ -10,7 +10,7 @@
 "	    for OpenVMS:  sys$login:.vimrc
 
 " 关闭兼容模式
-set nocompatible
+" set nocompatible
 
 " 打开语法高亮
 syntax enable
@@ -19,7 +19,7 @@ syntax enable
 filetype plugin indent on
 
 " 打开自动缩进
-set autoindent
+" set autoindent
 
 " 使用空格代替tab
 set expandtab 
