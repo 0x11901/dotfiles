@@ -38,5 +38,5 @@ set matchtime=1
 " 开启特殊符号的回显
 " set list listchars=eol:¬,tab:▸\ ,trail:.,
 " set cindent
-set background=dark
+" set background=dark
 colorscheme solarized
