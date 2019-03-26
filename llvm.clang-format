@@ -1,0 +1,7 @@
+BasedOnStyle: LLVM
+# 缩紧宽度
+IndentWidth: 4
+# tab宽度
+TabWidth: 4
+# 使用tab字符: Never, ForIndentation, ForContinuationAndIndentation, Always
+UseTab: Never
