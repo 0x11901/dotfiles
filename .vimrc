@@ -39,4 +39,4 @@ set matchtime=1
 " set list listchars=eol:¬,tab:▸\ ,trail:.,
 " set cindent
 " set background=dark
-colorscheme solarized
+" colorscheme solarized
