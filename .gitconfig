@@ -1,0 +1,5 @@
+[alias]
+	fuck = !git add -A && git commit -n -m  \"$(curl -sS http://whatthecommit.com/index.txt)\" && git push
+[user]
+	email = wjk930726@live.com
+	name = 0x11901
